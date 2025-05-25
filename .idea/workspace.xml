@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fba3d4de-13d7-439a-a04b-c76f8649ba3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/companions/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/companions/new/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/companions/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/my-journey/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sign-in/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subscription/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\kesari\\WebstormProjects\\screen-recording-app\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "ts.external.directory.path": "C:\\Users\\kesari\\WebstormProjects\\screen-recording-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kesari\WebstormProjects\screen-recording-app" />
@@ -74,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748070705598</updated>
-      <workItem from="1748070706644" duration="6875000" />
+      <workItem from="1748070706644" duration="7681000" />
     </task>
     <servers />
   </component>
